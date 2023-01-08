@@ -28,7 +28,6 @@ Each line onf the CSV represents a user stock position
 5. The Last Stock Price from the stock Market (usually fetched from the public API)
 6. Stock Name (usually fetched from the public API)
 7. Last Updated date by the API
-
 *
 * */
 
